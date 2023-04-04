@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Travel-ghp-Practice-v3/static/css/main.2a4c7631.css",
-    "main.js": "/Travel-ghp-Practice-v3/static/js/main.e3c56f82.js",
+    "main.js": "/Travel-ghp-Practice-v3/static/js/main.f8aea63a.js",
     "index.html": "/Travel-ghp-Practice-v3/index.html",
     "main.2a4c7631.css.map": "/Travel-ghp-Practice-v3/static/css/main.2a4c7631.css.map",
-    "main.e3c56f82.js.map": "/Travel-ghp-Practice-v3/static/js/main.e3c56f82.js.map"
+    "main.f8aea63a.js.map": "/Travel-ghp-Practice-v3/static/js/main.f8aea63a.js.map"
   },
   "entrypoints": [
     "static/css/main.2a4c7631.css",
-    "static/js/main.e3c56f82.js"
+    "static/js/main.f8aea63a.js"
   ]
 }
